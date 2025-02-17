@@ -1,5 +1,9 @@
 web-dasar-pemrograman
 ==
+Kuliner Indonesia
+--
+*Menjelajahi keajaiban rasa dan cerita di balik hidangan nusantara yang mendunia*
+
 Membuat Website Dasar
 --
 *Proyek yang saya kerjakan ini merupakan hasil final Submission dari Dicoding Indonesia yaitu bertujuan untuk membuat website dasar dengan Metode HTML dan CSS Dasar.*
